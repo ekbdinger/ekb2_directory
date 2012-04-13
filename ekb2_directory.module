@@ -1,0 +1,3 @@
+<?php
+
+include_once('ekb2_directory.features.inc');
